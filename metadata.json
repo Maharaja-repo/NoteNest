@@ -1,0 +1,6 @@
+{
+  "name": "NoteNest – Student Notes Sharing Platform",
+  "description": "Collaborative, peer-reviewed academic notes sharing platform tailored for 3rd Year Artificial Intelligence & Data Science (AIDS) students. Features syllabus-aligned notes, smart search, interactive note reader, AI study assistant, formula sheets, flashcard drills, and focus rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
